@@ -5,7 +5,7 @@
 % clear
 % close all
 
-subs = [13,14,16:19,21:25,27:29,32:37];
+subs = [12,14,16:19,21:25,27:29,32:37];
 
 
 cd 'D:\Behavior_3-Jitter_Control\Jitter_Control_V2.2\';
